@@ -53,13 +53,13 @@ All submissions must be done through GitHub. The steps below outline how to fork
     - This will create a copy of the repository under your GitHub account.
 3. **Clone the Repository**: Once forked, you can clone the repository to your local machine using:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/hackathon-repo.git
+   git clone https://github.com/YOUR-USERNAME/Recruitment-Hackathon.git
    ```
    Replace `YOUR-USERNAME` with your GitHub username.
 
 4. **Set Up the Repository**: After cloning, navigate to the repository folder on your local machine:
    ```bash
-   cd hackathon-repo
+   cd Recruitment-Hackathon
    ```
 
 ---
